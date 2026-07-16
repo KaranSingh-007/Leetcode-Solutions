@@ -6,7 +6,6 @@ class Solution {
         firstrow.add(1);
         result.add(firstrow);
         if(numRows == 1) return result;
-
         for(int i = 1; i < numRows; i++){
             List<Integer> prevrow = result.get(i-1);
 
@@ -18,8 +17,6 @@ class Solution {
             row.add(1);
             result.add(row);
         }
-
-
         return result;
     }
 }
