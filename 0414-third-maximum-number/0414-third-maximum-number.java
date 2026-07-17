@@ -3,8 +3,8 @@ class Solution {
         long v1 = Long.MIN_VALUE;
         long v2 = Long.MIN_VALUE;
         long v3 = Long.MIN_VALUE;
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] == v3 || nums[i] == v2 || nums[i] == v1){
+        for(int i = 0; i<nums.length; i++){
+            if(nums[i] == v1 || nums[i] == v2 || nums[i] == v3){
                 continue;
             }
             if(nums[i] > v1){
@@ -12,11 +12,11 @@ class Solution {
                 v2 = v1;
                 v1 = nums[i];
             }
-            else if(nums[i]> v2){
-                v3 = v2; 
+            else if(nums[i] > v2){
+                v3 = v2;
                 v2 = nums[i];
             }
-            else if (nums[i] > v3){
+            else if(nums[i] > v3){
                 v3 = nums[i];
             }
         }
