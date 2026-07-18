@@ -20,6 +20,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -49,4 +50,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
