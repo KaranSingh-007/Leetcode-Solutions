@@ -7,6 +7,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -17,6 +18,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
