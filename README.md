@@ -36,10 +36,12 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0009-palindrome-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
