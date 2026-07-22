@@ -19,6 +19,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0009-palindrome-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -48,6 +50,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -87,6 +90,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
