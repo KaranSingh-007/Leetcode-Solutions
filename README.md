@@ -6,6 +6,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -88,6 +89,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
