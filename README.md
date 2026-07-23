@@ -21,6 +21,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0704-binary-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -46,6 +48,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
