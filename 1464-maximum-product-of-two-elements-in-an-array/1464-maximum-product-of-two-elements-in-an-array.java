@@ -11,8 +11,6 @@ class Solution {
                 b = nums[i];
             }
         }
-        a -= 1;
-        b -= 1;
-        return a*b;
+        return (a-1)*(b-1);
     }
 }
