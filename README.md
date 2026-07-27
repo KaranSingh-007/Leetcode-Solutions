@@ -48,6 +48,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [2413-smallest-even-multiple](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -81,6 +82,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0414-third-maximum-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Interactive
 |  |
 | ------- |
