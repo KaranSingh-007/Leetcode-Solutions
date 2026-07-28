@@ -14,6 +14,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0118-pascals-triangle](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -31,6 +32,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0033-search-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -71,6 +73,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
