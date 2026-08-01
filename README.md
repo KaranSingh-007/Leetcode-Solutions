@@ -16,6 +16,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0136-single-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -63,6 +64,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0075-sort-colors](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +114,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -127,4 +131,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
