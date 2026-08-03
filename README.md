@@ -45,6 +45,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0009-palindrome-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -111,6 +112,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0125-valid-palindrome](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
