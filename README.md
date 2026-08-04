@@ -105,6 +105,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
@@ -140,6 +141,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Minimax
 |  |
 | ------- |
