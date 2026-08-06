@@ -1,8 +1,8 @@
 class Solution {
     public int maxValidPairSum(int[] nums, int k) {
         
-        int max1 = Integer.MIN_VALUE; // maximum left value
-        int max2 = Integer.MIN_VALUE; // answer
+        int max1 = Integer.MIN_VALUE; 
+        int max2 = Integer.MIN_VALUE;
         
         int i = k;
 
