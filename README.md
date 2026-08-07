@@ -45,6 +45,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0136-single-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
@@ -157,4 +159,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
