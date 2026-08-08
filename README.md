@@ -86,6 +86,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0075-sort-colors](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -126,6 +127,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -175,4 +177,5 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
