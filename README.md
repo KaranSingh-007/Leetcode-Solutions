@@ -167,6 +167,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
@@ -178,4 +179,5 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0021-merge-two-sorted-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
