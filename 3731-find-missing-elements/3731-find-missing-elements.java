@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         ArrayList<Integer>ans = new ArrayList<>();
-        Arrays.sort(nums);//1,2,4,5
+        Arrays.sort(nums);
         int value = -1;
         for(int i = 0; i < nums.length-1; i++){
             if(nums[i+1] - nums[i] != 1){
