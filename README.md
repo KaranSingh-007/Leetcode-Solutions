@@ -55,6 +55,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0504-base-7](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -150,6 +151,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1323-maximum-69-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
