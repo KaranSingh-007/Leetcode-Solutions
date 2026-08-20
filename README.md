@@ -128,6 +128,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -208,6 +209,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -217,4 +219,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
