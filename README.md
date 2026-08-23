@@ -7,6 +7,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -129,6 +130,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -235,4 +237,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
