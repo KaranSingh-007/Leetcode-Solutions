@@ -1,20 +1,17 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         if(s.length() != t.length()) return false;
-        Map<Character,Character> map = new HashMap<>();
+        Map<Character, Character> map = new HashMap<>();
         for(int i = 0; i<s.length(); i++){
-            char original = s.charAt(i);
-            char replace = t.charAt(i);
-            if(!map.containsKey(original)){
-                if(!map.containsValue(replace)){
-                    map.put(original,replace);
-                }
-                else return false;
+            Character a = s.charAt(i);
+            Character b = t.charAt(i);
+            if(map.containsKey(a)){
+                if(map.get(a)!=b) return false;
             }
-            else{
-                char mapped = map.get(original);
-                if(mapped != replace) return false;
+            else if(map.containsValue(b)){
+                if(map.get(a)!=b) return false;
             }
+            map.put(a,b);
         }
         return true;
     }
