@@ -3,17 +3,13 @@ class Solution {
         char[] chs = s.toCharArray();
         char[] cht = t.toCharArray();
         boolean result = false;
-        if(chs.length != cht.length){ 
-            return false;
-        }
+        if(s.length() != t.length()) return false;
         Arrays.sort(chs);
         Arrays.sort(cht);
-        for(int i = 0;i<chs.length; i++){
-            if(chs[i] == cht[i]){
-                result = true;
-            }
+        for(int i = 0; i<s.length(); i++){
+            if(chs[i] != cht[i]) return false;
             else {
-                return false;
+                result = true;
             }
         }
         return result;
