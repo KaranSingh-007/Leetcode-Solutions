@@ -83,6 +83,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0383-ransom-note](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0231-power-of-two](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0504-base-7](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -164,6 +167,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0387-first-unique-character-in-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
