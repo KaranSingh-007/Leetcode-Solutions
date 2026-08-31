@@ -8,5 +8,7 @@ class Solution {
             }
         }
         return -1;
+        // or just try this
+        // return haystack.indexOf(needle);
     }
 }
