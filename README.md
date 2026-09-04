@@ -28,6 +28,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -247,6 +248,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Newton's Method
 |  |
 | ------- |
