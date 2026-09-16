@@ -63,6 +63,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0412-fizz-buzz](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -317,4 +318,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
