@@ -307,6 +307,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -315,6 +316,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -322,11 +324,13 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
