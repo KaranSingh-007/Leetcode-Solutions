@@ -32,6 +32,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [1512-number-of-good-pairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3731-find-missing-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -132,6 +133,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0414-third-maximum-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Interactive
@@ -196,6 +198,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
