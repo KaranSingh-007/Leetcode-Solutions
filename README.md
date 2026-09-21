@@ -172,6 +172,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0412-fizz-buzz](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
