@@ -315,6 +315,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0101-symmetric-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -326,6 +327,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0101-symmetric-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -336,6 +338,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0101-symmetric-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -344,6 +347,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0101-symmetric-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
