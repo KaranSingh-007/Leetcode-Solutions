@@ -11,14 +11,15 @@ class Solution {
             if(temp.left == null && temp.right == null && tempval == targetSum){
                 return true;
             }
-            if(temp.right != null){
-                stack.push(temp.right);
-                sumstack.push(temp.right.val + tempval);
-            }
             if(temp.left != null){
                 stack.push(temp.left);
                 sumstack.push(temp.left.val + tempval);
             }
+            if(temp.right != null){
+                stack.push(temp.right);
+                sumstack.push(temp.right.val + tempval);
+            }
+
         }
 
         return false;
