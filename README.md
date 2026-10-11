@@ -37,6 +37,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -380,4 +381,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
