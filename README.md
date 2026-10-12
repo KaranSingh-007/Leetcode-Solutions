@@ -13,6 +13,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0033-search-in-rotated-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -164,6 +165,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [0020-valid-parentheses](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -329,6 +331,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
@@ -385,4 +388,12 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
