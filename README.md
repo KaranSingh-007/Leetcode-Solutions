@@ -105,6 +105,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,6 +113,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -161,6 +163,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -396,4 +399,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0079-word-search) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
