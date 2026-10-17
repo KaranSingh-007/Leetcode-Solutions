@@ -403,4 +403,8 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
