@@ -42,6 +42,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [2778-sum-of-squares-of-special-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -87,6 +88,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
