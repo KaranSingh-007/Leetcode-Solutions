@@ -84,6 +84,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | [2469-convert-the-temperature](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -284,6 +285,7 @@ Collection of my LeetCode solutions in Java with clean code and optimized approa
 | ------- |
 | [0412-fizz-buzz](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/KaranSingh-007/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
